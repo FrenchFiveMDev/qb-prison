@@ -1,4 +1,4 @@
-# qb-prison-
+# qb-prison
 
 Discord of QBCore : https://discord.gg/qbcore
 
